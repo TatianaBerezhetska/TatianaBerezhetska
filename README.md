@@ -7,3 +7,9 @@
 <br>
 - Работаю с LavaScript, HTML, CSS, React, VSCode, GitBash. <br>
 - Умею верстать дизайны с Figma и делать адаптивную вёрстку. 
+<br><br>
+Telegram:<br>
+@tatiana_berezhetska
+<br><br>
+Instagram:<br>
+https://www.instagram.com/tatiana.berezhetska/
